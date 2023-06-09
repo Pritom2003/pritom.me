@@ -1,2 +1,2 @@
 # pritom.me
-https://www.messi&ronaldo.com
+https://pritom2003.github.io/pritom.me/
