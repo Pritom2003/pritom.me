@@ -2,11 +2,76 @@ h1 ,h2, p {
     text-align: center;
 }
 body {
+    font-family: sans-serif;
     background-image: url("Images/Brown Food Illsutration Kawaii Phone Wallpaper.png");
+    padding: 20px;
 }
 .menu {
+    max-width: 500px;
     width: 80%;
     background-color: burlywood;
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
+}
+.flavor,.dessert {
+    width: 75%;
+    text-align: left;
+}
+.price {
+    width: 25%;
+    text-align: right;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+h1,h2 {
+    font-family: Impact,serif;
+}
+.established {
+    font-style: italic;
+}
+img {
+    display: block;
+    margin-top: -25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.address {
+    margin-bottom: 5px;
+}
+h2{
+   font-size: 30px;
+}
+hr {
+    height: 2px;
+    background-color: pink;
+    border-color: white;
+}
+.bottom-line {
+    margin-top: 25px;
+}
+/*FOOTER*/
+footer {
+    font-size: 14px;
+}
+a {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: brown;
+}
+a:active {
+    color: brown;
 }
